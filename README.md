@@ -1,3 +1,5 @@
+[![Total Downloads](https://img.shields.io/github/downloads/zay448345045/harder-sprouted-pixel-dungeon/total?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/zay448345045/harder-sprouted-pixel-dungeon/releases)
+
 [Chinese version / 中文介绍](README_CN.md)
 
 # HSPD--CN  
